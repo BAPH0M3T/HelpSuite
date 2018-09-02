@@ -1,5 +1,5 @@
 #HelpSuite
-#a suite of simple applications for everyday use
+#a piece of example code for learners
 #created by Jack H. Wharton 16 Apr 2018
 
 puts "Enter User Name"
